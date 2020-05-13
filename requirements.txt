@@ -2,3 +2,4 @@ behave
 faker
 requests
 git+ssh://git@github.com/catastrophe-brandon/rbac-test-util.git
+black
